@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Workspace/DotNet/PJ1-MonoGame/MonoGame/Content/BallSprite.png</File>
+    <File>D:/Workspace/DotNet/PJ1-MonoGame/MonoGame/Content/megaman1.png</File>
+    <File>D:/Workspace/DotNet/PJ1-MonoGame/MonoGame/Content/megaman2.png</File>
+    <File>D:/Workspace/DotNet/PJ1-MonoGame/MonoGame/Content/megaman3.png</File>
+    <File>D:/Workspace/DotNet/PJ1-MonoGame/MonoGame/Content/megaman4.png</File>
+    <File>D:/Workspace/DotNet/PJ1-MonoGame/MonoGame/Content/megaman1b.png</File>
+  </SourceFiles>
+</SourceFileCollection>
